@@ -1,0 +1,36 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "role": "King",
+      "name": "Pepe",
+      "lastname": "Pepin",
+      "boss": "none",
+      "edad": 65
+    },
+    {
+      "id": 2,
+      "role": "fighter",
+      "name": "Pepe",
+      "lastname": "Pepin",
+      "boss": "king",
+      "edad": 32
+    },
+    {
+      "id": 3,
+      "role": "advisor",
+      "name": "Ernesto",
+      "lastname": "Ernestin",
+      "boss": "fighter",
+      "edad": 48
+    },
+    {
+      "id": 4,
+      "role": "slave",
+      "name": "Julio",
+      "lastname": "julito",
+      "boss": "King",
+      "edad": 23
+    }
+  ]
+}
